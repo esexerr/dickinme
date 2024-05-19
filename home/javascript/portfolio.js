@@ -9,26 +9,10 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: '@swaz',
-      link: 'x',
+      name: '@resort',
+      link: '1',
     },
     {
-      name: '@net',
-      link: 'network',
-    },
-    {
-      name: '@tear',
-      link: 'tear',
-    },
-    {
-      name: '@strive',
-      link: 'strive',
-    },
-    {
-      name: '@draco',
-      link: 'd',
-    },
-  ];
 
   for (let i in links) {
     let link = links[i];
