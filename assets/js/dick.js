@@ -3,4 +3,4 @@
   setTimeout(function () {
     titleScroller(text.substr(1) + text.substr(0, 1));
   }, 350);
-}("locate some bitches ⛧ "));
+}("resort in  some bitches ⛧ "));
