@@ -20,6 +20,11 @@ $(document).ready(() => {
       name: '@tear',
       link: 'tear',
     },
+
+    {
+      name: '@resort',
+      link: 'resort',
+    },
    
   ];
 
