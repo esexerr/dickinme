@@ -13,6 +13,15 @@ $(document).ready(() => {
       link: '1',
     },
     {
+      name: '@fawyok',
+      link: 'network',
+    },
+    {
+      name: '@tear',
+      link: 'tear',
+    },
+   
+  ];
 
   for (let i in links) {
     let link = links[i];
