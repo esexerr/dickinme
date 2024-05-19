@@ -22,7 +22,7 @@ $(document).ready(() => {
     },
 
     {
-      name: '@resort',
+      name: '@ryuk',
       link: 'resort',
     },
    
