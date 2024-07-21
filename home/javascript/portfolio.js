@@ -17,6 +17,10 @@ $(document).ready(() => {
       name: "resort",
       link: "2",
     },
+    {
+      name: "tye",
+      link: "dot",
+    }
   ];
 
   for (let i in links) {
